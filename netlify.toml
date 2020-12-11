@@ -1,0 +1,4 @@
+[build.environment]
+  NPM_CONFIG_USERCONFIG = "./.netlify/.npmrc"
+  NETLIFY_USE_YARN = "true"
+  YARN_FLAGS = "--frozen-lockfile"
