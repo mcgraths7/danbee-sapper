@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "danbee_site",
+  "description": "Site for grill",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
